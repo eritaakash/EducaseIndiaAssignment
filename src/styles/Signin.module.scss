@@ -1,0 +1,22 @@
+.contents {
+    height: 100%;
+    width: 89.33%;
+
+    margin: 0 auto;
+    padding-top: 40px; /* (40/812) * 100 = 4.92% */ 
+
+    h1 {
+        text-align: left;
+        font: normal normal medium 28px/36px Rubik;
+
+        letter-spacing: 0px;
+        width: 50.1%;
+    }
+
+    > p {
+        margin-top: 14px;
+
+        text-align: left;
+        font: normal normal normal 18px/26px Rubik;
+    }
+}

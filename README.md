@@ -1,40 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+## React JS - Intern/Fresher Assignment 
 
-## Getting Started
+This is a submission for the ReactJS Intern/Fresher assignment given by [Educase India](https://internshala.com/company/educase-india-1621358973) on Internshala.
 
-First, run the development server:
+### Output 
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+The final output can be viewed [here]()
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Objective 
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+The task was to implement the given [User Interface in Adobe XD](https://xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd) using ReactJS, expected to be completed in 2 days. 
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Following were the instructions provided:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+- Code should be neat and clean and well formatted
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- The design should be pixel-perfect, with the mobile App interface centered on the webpage. Additionally, navigation between pages should function seamlessly and efficiently.
 
-## Learn More
+- The final assignment should be hosted on vercel or similar platforms
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+### Screenshots 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Home Page 
 
-## Deploy on Vercel
+![Home Page](/assets/homepage.PNG)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. Sign In Page 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+![Sign In Page](/assets/signin.PNG)
+
+
+3. Sign Up Page
+
+![Sign Up Page](/assets/signup.PNG)
+
+4. Account Settings Page
+
+![Account Settings Page](/assets/accsettings.PNG)
+
+
+## Technologies Used
+
+- Next.js (React Framework)
+- Sass (Styling)
+- Vercel (Deployment)
